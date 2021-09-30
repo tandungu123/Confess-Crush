@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "mah bbi có bít tui yêu em nhiều lắm không hả",
     introTitle: 'Tên người yêu bạn',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'bao giờ hết dịch mình đi chơi luôn nhó 🥰',
+    btnAccept: 'Okiiiii lun nhó <3',
+    messLink: '' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
